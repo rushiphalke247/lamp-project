@@ -20,5 +20,4 @@
 1. **Install LAMP Stack**
    ```bash
    cd scripts
-   chmod +x lamp.sh
    ./install_lamp.sh
